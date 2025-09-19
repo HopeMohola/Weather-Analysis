@@ -2,7 +2,7 @@
 ## Project Overview
 This project uses a weather dataset (13,200 records, 11 features) to build an interactive Power BI dashboard. The goal is to explore and classify weather conditions across different seasons and locations.
 
-T## he dashboard provides insights into:
+## The dashboard provides insights into:
 - Temperature, humidity, wind speed, and visibility trends
 - Precipitation and cloud cover distribution
 - Seasonal weather patterns

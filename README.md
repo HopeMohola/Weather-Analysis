@@ -33,6 +33,9 @@ This project uses a weather dataset (13,200 records, 11 features) to build an in
       - Creating calculated measures (e.g., Average Temperature per Season)
       - Aggregating data by location and weather type
 
+## Feature Engineering
+- created a new column named FeelsLikeTemp to express how hot or cold the weather actually feels to the human body, rather than the raw measured air temperature.
+
 ## Power BI Dashboard Features
 - Overview page: Summary of weather patterns
 - Seasonal trends: Compare metrics across Winter, Spring, Summer, Autumn
